@@ -6,7 +6,7 @@ import logging.handlers
 # @brief      Setup the logging to console and to file (one log for day)
 # @details    
 # @args       
-# @return     the logger object
+# @return     None
 #
 
 logger = logging.getLogger()
